@@ -8,7 +8,7 @@
 > 's' to move the paddle down
 
 ## Player 2
-> 'UP' to move the paddle up /n
+> 'UP' to move the paddle up 
 > 'DOWN' to move the paddle down
 
 > 'SPACE' to pause
