@@ -4,12 +4,12 @@
 
 # Controls
 ## Player 1
-> 'w' to move the paddle up
-> 's' to move the paddle down
+> 'w' to move the paddle up  
+> 's' to move the paddle down  
 
 ## Player 2
-> 'UP' to move the paddle up 
-> 'DOWN' to move the paddle down
+> 'UP' to move the paddle up  
+> 'DOWN' to move the paddle down  
 
-> 'SPACE' to pause
-> 'ESCAPE' to get back to the main menu
+> 'SPACE' to pause  
+> 'ESCAPE' to get back to the main menu  
